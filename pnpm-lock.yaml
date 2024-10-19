@@ -23,7 +23,7 @@ dependencies:
 
 devDependencies:
   nodemon:
-    specifier: ^3.0.1
+    specifier: ^3.1.7
     version: 3.1.7
 
 packages:
