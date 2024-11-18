@@ -21,7 +21,6 @@ mongoose
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.error(err));
 
-// Routes
 app.use("/api/users", userRoutes);
 
 // Start server
